@@ -4,4 +4,5 @@ Test file
 Contents
 
 Line master
+Line from branch01
 
